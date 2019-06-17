@@ -1,0 +1,7 @@
+export const REQUEST_USERS = 'REQUEST_USERS';
+export const RECEIVE_USERS = 'RECEIVE_USERS';
+export const FILTER_USERS = 'FILTER_USERS';
+export const CACHE_NEXT = 'CACHE_NEXT';
+export const SELECT_USER = 'SELECT_USER';
+export const UN_SELECT_USER = 'UN_SELECT_USER';
+export const INVALIDATE_LIST = 'INVALIDATE_LIST';
